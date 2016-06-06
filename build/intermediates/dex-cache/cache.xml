@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Broadcast\Desktop\WS_APP-ANDROID\Aplicacion-Turismo-Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="899251de5ec615e8d08ca0c0d6dafb290c8910a7">
+        <dex dex="C:\Users\Broadcast\Desktop\WS_APP-ANDROID\Aplicacion-Turismo-Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d39508f13e56af3daecf7e57e9c664335c310af1\classes.dex" />
+    </item>
+
+</items>
